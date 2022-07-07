@@ -1,5 +1,5 @@
 
-#This Repo contains code and procedures to select optimal data structure while migrating from Greenplum to Amazon Redshift 
+**This Repo contains code and procedures to select optimal data structure while migrating from Greenplum to Amazon Redshift**
 
 #Data Structure profiling is essential to avoid numeric overflow or character values that are too long. This repositroy consists of list of SQL's queries **you can execute on Greenplum Database to come up with right sizing data strcutures 
 
